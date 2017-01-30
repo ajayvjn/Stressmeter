@@ -1,6 +1,13 @@
 # Stressmeter
 
-FIX BEFORE IT HITS
+<b>FIX BEFORE IT HITS</b>
+
+<b>Stressmeter</b> is an IoT product which is a real-time 24/7 low cost monitoring and warning system which analyses stress on a structure and alerts the user before the structure reaches it's threshold.
+
+We have used Particle Photon and an android app to monitor and alert the users in this project.
+
+Link:  
+<a>https://devpost.com/software/stressmeter</a>
 
 <b>Inspiration:</b>  
 Incidents related to structural collapse and loss of lives.
