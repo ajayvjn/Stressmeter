@@ -17,13 +17,13 @@ Programming the particle photon and integrating android app with it
 <b>Accomplishments that I'm proud of:</b>  
 The application works in real-time and has potential to save lives.
 
-What I learned:  
+<b>What I learned:</b>  
 Concepts of IOT and hardware implementations
 
-What's next for Stressmeter:  
+<b>What's next for Stressmeter:</b>  
 As of now we have successfully implemented it into bridges. would possibly extend it to other form of structures like buildings, dams etc.
 
-Built With:  
+<b>Built With:</b>  
 C,  
 javascript,  
 css,  
